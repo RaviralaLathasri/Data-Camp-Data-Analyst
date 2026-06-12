@@ -198,6 +198,4 @@ If you're a recruiter, hiring manager, or fellow analyst — feel free to reach 
 
 ---
 
-<p align="center">
-  <i>Built with curiosity, cleaned with care, presented with clarity.</i>
-</p>
+
